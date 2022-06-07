@@ -7,8 +7,8 @@ Const PUSH_QUERY = "INSERT INTO %s (id, contacts) VALUES (\"%s\", \"%s\");";
 Const DELETE_QUERY = "DELETE FROM %s WHERE id=\"%s\";";
 
 Const HOST = "sql3.freemysqlhosting.net";
-Const USERNAME = "sql3496710";
-Const PASSWORD = "hHH2zVtfwD";
+Const USERNAME = "censored";
+Const PASSWORD = "censored";
 Const DATABASE_NAME = "sql3496710";
 Const TABLE = "info";
 
